@@ -14,6 +14,8 @@ Let’s build something that doesn’t just work – but inspires. 🚀
 [![Linkedin: Temmi Pietsch](https://img.shields.io/badge/-Temmi%20Pietsch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/temmi-pietsch/)](https://www.linkedin.com/in/temmi-pietsch/)
 [![GitHub temmiland](https://img.shields.io/github/followers/temmiland)](https://github.com/temmiland)
 
+[![Buy Me A Coffee](https://raw.githubusercontent.com/temmiland/temmiland/refs/heads/main/assets/bmc-button.png)](https://www.buymeacoffee.com/temmiland)
+
 ### A little more about me
 
 ```javascript
