@@ -20,7 +20,7 @@ Let’s build something that doesn’t just work – but inspires. 🚀
 
 ```javascript
 const temmi = {
-  age: 27,
+  age: 28,
   pronouns: "she/her",
   hobbies: [ "coding 👩🏼‍💻", "gardening 🌸", "politics 🏛️", "ballet 🩰", "longboarding 🛹", "hiking 🥾", "worldbuilding ✍🏻" ],
   job: "Frontend Developer",
