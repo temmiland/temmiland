@@ -21,8 +21,8 @@ const temmi = {
   pronouns:  "she/her",
   location:  "Leipzig, Germany",
   job:       "Senior Software Engineer",
-  skills: "https://temmi.land/skills",
-  projects: "https://temmi.land/projects",
+  skills:    "https://temmi.land/skills",
+  projects:  "https://temmi.land/projects",
   hobbies:  [
     "coding 👩🏼‍💻",
     "gardening 🌸",
